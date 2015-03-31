@@ -552,7 +552,7 @@ endif
 
 # Define some common conlyflags
 libc_common_conlyflags := \
-    -std=gnu11
+    -std=gnu99
 
 # Define some common cppflags
 libc_common_cppflags := \
